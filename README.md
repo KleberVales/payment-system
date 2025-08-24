@@ -9,4 +9,7 @@ A simple Java 21 project demonstrating **Interfaces, Enums, Sealed Classes and L
 - Sealed class `Payment` restricts which classes can extend it.
 - Lambda expressions used for functional-style payment processing.
 
+## 🛠 Technologies
+
+
 
