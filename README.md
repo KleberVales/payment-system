@@ -11,5 +11,9 @@ A simple Java 21 project demonstrating **Interfaces, Enums, Sealed Classes and L
 
 ## 🛠 Technologies
 
+- Java 21
+- Gradle (or Maven)
+- JDK features: Interface, Enum, Sealed Classes, Lambdas
+
 
 
