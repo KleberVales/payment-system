@@ -17,6 +17,12 @@ A simple Java 21 project demonstrating **Interfaces, Enums, Sealed Classes and L
 
 ## ▶️ How to Run
 
+1. Clone the repo
+2. Compile with Java 21:
+   ```bash
+   javac -d out $(find src -name "*.java")
+   java -cp out PaymentProcessor
+
 
 
 
