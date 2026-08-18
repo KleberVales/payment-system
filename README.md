@@ -43,3 +43,22 @@ payment-system/
 ```
 
 ## 🧩 Architecture
+
+The core of the project is the `Payment` abstraction.
+
+```text
+                    Payment
+                       │
+              ┌────────┴────────┐
+              │                 │
+      CreditCardPayment     PixPayment
+              │                 │
+              └────────┬────────┘
+                       │
+                PaymentProcessor
+```
+
+`Payment` is declared as a **sealed class**, explicitly restricting which classes can extend it. The current implementations are `CreditCardPayment` and `PixPayment`.
+
+
+
