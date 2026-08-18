@@ -60,5 +60,21 @@ The core of the project is the `Payment` abstraction.
 
 `Payment` is declared as a **sealed class**, explicitly restricting which classes can extend it. The current implementations are `CreditCardPayment` and `PixPayment`.
 
+```java
+public sealed abstract class Payment
+        permits CreditCardPayment, PixPayment {
+    
+    protected double amount;
+
+    public Payment(double amount) {
+        this.amount = amount;
+    }
+
+    public abstract void process();
+}
+```
+
+This provides a controlled inheritance hierarchy while still allowing polymorphic processing.
+
 
 
