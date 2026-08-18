@@ -25,6 +25,3 @@ A simple Java 21 project demonstrating **Interfaces, Enums, Sealed Classes and L
 
 ## 📚 Concepts Covered
 
-- Interface for abstraction
-- Enum for fixed payment types
-- Sealed Class to restrict hierarchy
