@@ -23,3 +23,5 @@ The project explores:
 - Method references
 - Collections
 - `Consumer<T>`
+
+## 🏗️ Project Structure
