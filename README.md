@@ -41,3 +41,5 @@ payment-system/
                         ├── PaymentType.java
                         └── PixPayment.java
 ```
+
+## 🧩 Architecture
