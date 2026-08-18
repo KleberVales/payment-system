@@ -25,3 +25,19 @@ The project explores:
 - `Consumer<T>`
 
 ## 🏗️ Project Structure
+
+```text
+payment-system/
+└── src/
+    └── main/
+        └── java/
+            └── com/
+                └── kleber/
+                    └── payments/
+                        ├── CreditCardPayment.java
+                        ├── Payment.java
+                        ├── PaymentMethod.java
+                        ├── PaymentProcessor.java
+                        ├── PaymentType.java
+                        └── PixPayment.java
+```
