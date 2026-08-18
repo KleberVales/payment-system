@@ -9,3 +9,17 @@ The project models different payment methods through a common `Payment` abstract
 The main goal of this project is to practice and demonstrate modern Java concepts through a simple payment-processing domain.
 
 The project explores:
+
+- Object-oriented programming
+- Abstraction
+- Inheritance
+- Polymorphism
+- Interfaces
+- Sealed classes
+- `final` classes
+- Method overriding
+- Functional interfaces
+- Lambda expressions
+- Method references
+- Collections
+- `Consumer<T>`
