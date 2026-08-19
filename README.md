@@ -121,5 +121,7 @@ payments.forEach(process);
 
 This demonstrates how Java's functional programming features can be combined with polymorphism.
 
+## 🧠 Java Concepts Demonstrated
+
 
 
