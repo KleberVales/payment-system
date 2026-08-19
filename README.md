@@ -123,5 +123,6 @@ This demonstrates how Java's functional programming features can be combined wit
 
 ## 🧠 Java Concepts Demonstrated
 
+### Sealed Classes
 
 
