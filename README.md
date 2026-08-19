@@ -86,5 +86,19 @@ This provides a controlled inheritance hierarchy while still allowing polymorphi
 
 `PixPayment` represents a PIX payment implementation and overrides the `process()` method to provide its own payment-processing behavior.
 
+```java
+public final class PixPayment extends Payment {
+
+    public PixPayment(double amount) {
+        super(amount);
+    }
+
+    @Override
+    public void process() {
+        System.out.println("Processing PIX payment of $" + amount);
+    }
+}
+```
+
 
 
