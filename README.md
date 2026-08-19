@@ -138,3 +138,10 @@ This explicitly defines which classes are allowed to extend `Payment`.
 
 Different payment implementations can be handled through the same `Payment` reference:
 
+```java
+List<Payment> payments = List.of(
+    new CreditCardPayment(150.0),
+    new PixPayment(75.5)
+);
+```
+
