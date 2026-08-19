@@ -102,5 +102,7 @@ public final class PixPayment extends Payment {
 
 ## ⚙️ Payment Processing
 
+The `PaymentProcessor` class creates different payment implementations and stores them in a collection of the common `Payment` type.
+
 
 
