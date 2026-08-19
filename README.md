@@ -76,5 +76,7 @@ public sealed abstract class Payment
 
 This provides a controlled inheritance hierarchy while still allowing polymorphic processing.
 
+## 💳 Supported Payment Types
+
 
 
