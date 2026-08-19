@@ -132,3 +132,5 @@ public sealed abstract class Payment
         permits CreditCardPayment, PixPayment
 ```
 
+This explicitly defines which classes are allowed to extend `Payment`.
+
