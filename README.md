@@ -125,4 +125,6 @@ This demonstrates how Java's functional programming features can be combined wit
 
 ### Sealed Classes
 
+The `Payment` class uses a sealed hierarchy:
+
 
