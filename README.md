@@ -134,3 +134,5 @@ public sealed abstract class Payment
 
 This explicitly defines which classes are allowed to extend `Payment`.
 
+### Polymorphism
+
