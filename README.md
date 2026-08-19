@@ -84,5 +84,7 @@ This provides a controlled inheritance hierarchy while still allowing polymorphi
 
 ### PIX
 
+`PixPayment` represents a PIX payment implementation and overrides the `process()` method to provide its own payment-processing behavior.
+
 
 
