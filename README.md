@@ -145,3 +145,6 @@ List<Payment> payments = List.of(
 );
 ```
 
+Each implementation provides its own version of `process()`.
+
+
