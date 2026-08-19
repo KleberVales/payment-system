@@ -136,3 +136,5 @@ This explicitly defines which classes are allowed to extend `Payment`.
 
 ### Polymorphism
 
+Different payment implementations can be handled through the same `Payment` reference:
+
