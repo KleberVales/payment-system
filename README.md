@@ -78,5 +78,7 @@ This provides a controlled inheritance hierarchy while still allowing polymorphi
 
 ## 💳 Supported Payment Types
 
+### Credit Card
+
 
 
