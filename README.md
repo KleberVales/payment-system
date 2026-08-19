@@ -104,5 +104,12 @@ public final class PixPayment extends Payment {
 
 The `PaymentProcessor` class creates different payment implementations and stores them in a collection of the common `Payment` type.
 
+```java
+List<Payment> payments = List.of(
+    new CreditCardPayment(150.0),
+    new PixPayment(75.5)
+);
+```
+
 
 
