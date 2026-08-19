@@ -127,4 +127,8 @@ This demonstrates how Java's functional programming features can be combined wit
 
 The `Payment` class uses a sealed hierarchy:
 
+```java
+public sealed abstract class Payment
+        permits CreditCardPayment, PixPayment
+```
 
