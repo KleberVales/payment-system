@@ -100,5 +100,7 @@ public final class PixPayment extends Payment {
 }
 ```
 
+## ⚙️ Payment Processing
+
 
 
