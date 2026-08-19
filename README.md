@@ -113,5 +113,11 @@ List<Payment> payments = List.of(
 
 The payments are then processed using a `Consumer<Payment>` and a method reference:
 
+```java
+Consumer<Payment> process = Payment::process;
+
+payments.forEach(process);
+```
+
 
 
