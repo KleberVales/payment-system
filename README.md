@@ -80,5 +80,7 @@ This provides a controlled inheritance hierarchy while still allowing polymorphi
 
 ### Credit Card
 
+`CreditCardPayment` represents a credit-card payment implementation.
+
 
 
