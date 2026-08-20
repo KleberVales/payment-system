@@ -175,4 +175,6 @@ public interface PaymentMethod {
 
 ## ▶️ Running the Project
 
+Clone the repository:
+
 
