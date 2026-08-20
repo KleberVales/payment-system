@@ -155,5 +155,7 @@ The project uses:
 Payment::process
 ```
 
+as a method reference compatible with `Consumer<Payment>`.
+
 
 
