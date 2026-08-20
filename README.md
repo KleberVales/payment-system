@@ -157,5 +157,6 @@ Payment::process
 
 as a method reference compatible with `Consumer<Payment>`.
 
+### Functional Interface
 
 
