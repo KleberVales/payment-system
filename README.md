@@ -151,4 +151,9 @@ Each implementation provides its own version of `process()`.
 
 The project uses:
 
+```java
+Payment::process
+```
+
+
 
