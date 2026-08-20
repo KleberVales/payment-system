@@ -165,4 +165,12 @@ as a method reference compatible with `Consumer<Payment>`.
 
 The project also contains a `PaymentMethod` interface that defines a `pay(double amount)` contract for payment-method implementations.
 
+```java
+public interface PaymentMethod {
+
+    void pay(double amount);
+
+}
+```
+
 
