@@ -159,4 +159,6 @@ as a method reference compatible with `Consumer<Payment>`.
 
 ### Functional Interface
 
+`Consumer<Payment>` is used to represent an operation that accepts a payment and performs an action without returning a value.
+
 
