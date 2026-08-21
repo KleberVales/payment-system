@@ -197,4 +197,6 @@ java -cp out com.kleber.payments.PaymentProcessor
 
 > **Note:** The project uses Java features such as sealed classes, so use a Java version that supports sealed classes (Java 17 or newer).
 
+## 📚 Learning Objectives
+
 
