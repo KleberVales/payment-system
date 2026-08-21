@@ -199,4 +199,6 @@ java -cp out com.kleber.payments.PaymentProcessor
 
 ## 📚 Learning Objectives
 
+This project was developed as a practical exercise to reinforce modern Java fundamentals, especially:
+
 
