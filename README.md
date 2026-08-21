@@ -189,4 +189,6 @@ Compile the source code:
 
 javac -d out src/main/java/com/kleber/payments/*.java
 
+Run the processor:
+
 
