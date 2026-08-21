@@ -204,5 +204,6 @@ This project was developed as a practical exercise to reinforce modern Java fund
 * Designing class hierarchies
 * Using abstraction effectively
 * Applying polymorphism
+* Restricting inheritance with sealed classes
 
 
