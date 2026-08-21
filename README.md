@@ -191,4 +191,8 @@ javac -d out src/main/java/com/kleber/payments/*.java
 
 Run the processor:
 
+```bash
+java -cp out com.kleber.payments.PaymentProcessor
+```
+
 
