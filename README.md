@@ -185,4 +185,6 @@ Enter the project directory:
 
 cd payment-system
 
+Compile the source code:
+
 
