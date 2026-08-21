@@ -202,5 +202,6 @@ java -cp out com.kleber.payments.PaymentProcessor
 This project was developed as a practical exercise to reinforce modern Java fundamentals, especially:
 
 * Designing class hierarchies
+* Using abstraction effectively
 
 
