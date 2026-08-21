@@ -187,4 +187,6 @@ cd payment-system
 
 Compile the source code:
 
+javac -d out src/main/java/com/kleber/payments/*.java
+
 
