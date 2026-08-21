@@ -181,4 +181,6 @@ Clone the repository:
 git clone https://github.com/KleberVales/payment-system.git
 ```
 
+Enter the project directory:
+
 
