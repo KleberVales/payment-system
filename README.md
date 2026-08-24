@@ -221,5 +221,5 @@ The project can be extended to explore additional backend and software-design co
 * Add unit tests with JUnit
 * Introduce exceptions for invalid payments
 * Apply the Strategy design pattern
-
+* Add a service layer
 
