@@ -220,6 +220,6 @@ The project can be extended to explore additional backend and software-design co
 * Replace `double` with `BigDecimal` for monetary values
 * Add unit tests with JUnit
 * Introduce exceptions for invalid payments
-* Apply the Strategy 
+* Apply the Strategy design pattern
 
 
