@@ -219,7 +219,7 @@ The project can be extended to explore additional backend and software-design co
 * Add validation for payment amounts
 * Replace `double` with `BigDecimal` for monetary values
 * Add unit tests with JUnit
-
+* Introduce exceptions 
 
 
 
