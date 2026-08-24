@@ -208,6 +208,6 @@ This project was developed as a practical exercise to reinforce modern Java fund
 * Defining contracts with interfaces
 * Using functional interfaces
 * Working with method references
-* Combining object-oriented 
+* Combining object-oriented and functional programming
 
 
