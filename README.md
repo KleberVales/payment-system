@@ -206,5 +206,5 @@ This project was developed as a practical exercise to reinforce modern Java fund
 * Applying polymorphism
 * Restricting inheritance with sealed classes
 * Defining contracts with interfaces
-
+* Using functional interfaces
 
