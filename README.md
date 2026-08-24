@@ -217,7 +217,7 @@ The project can be extended to explore additional backend and software-design co
 * Add more payment methods
 * Introduce payment status
 * Add validation for payment amounts
-* Replace `double` with 
+* Replace `double` with `BigDecimal` for monetary values
 
 
 
