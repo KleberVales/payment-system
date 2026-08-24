@@ -210,4 +210,5 @@ This project was developed as a practical exercise to reinforce modern Java fund
 * Working with method references
 * Combining object-oriented and functional programming
 
+## 🚀 Possible Improvements
 
