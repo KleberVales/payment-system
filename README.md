@@ -224,3 +224,6 @@ The project can be extended to explore additional backend and software-design co
 * Add a service layer
 * Create a REST API with Spring Boot
 * Persist payment transactions with PostgreSQL
+* Add Docker support
+
+
