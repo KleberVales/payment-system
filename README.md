@@ -222,4 +222,5 @@ The project can be extended to explore additional backend and software-design co
 * Introduce exceptions for invalid payments
 * Apply the Strategy design pattern
 * Add a service layer
+* Create a REST API with Spring Boot
 
