@@ -223,4 +223,4 @@ The project can be extended to explore additional backend and software-design co
 * Apply the Strategy design pattern
 * Add a service layer
 * Create a REST API with Spring Boot
-* Persist payment 
+* Persist payment transactions with PostgreSQL
