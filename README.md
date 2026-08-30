@@ -234,4 +234,4 @@ Java & Spring Software Engineer
 
 Microservices | Cloud | DevOps | Generative AI | Agile
 
-Tools: Docker; Kafka
+Tools: Docker; Kubernetes; Kafka; 
