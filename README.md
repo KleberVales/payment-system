@@ -234,4 +234,3 @@ Java & Spring Software Engineer
 
 Microservices | Cloud | DevOps | Generative AI | Agile
 
-Tools: 
