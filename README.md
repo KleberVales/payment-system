@@ -232,5 +232,5 @@ The project can be extended to explore additional backend and software-design co
 
 Java & Spring Software Engineer
 
-Microservices | Cloud | DevOps | Generative AI | Agile
+Microservices | Cloud | DevOps | Generative AI | 
 
